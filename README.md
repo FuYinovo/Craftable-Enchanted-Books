@@ -1,4 +1,4 @@
-The original author of the recipes is [https://modrinth.com/mod/craftable-enchantments].
+The original author of the recipes is [https://modrinth.com/user/confused_modder].
 
 
 Just updating to 1.21.1.
