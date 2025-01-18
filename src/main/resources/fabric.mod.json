@@ -2,14 +2,13 @@
 	"schemaVersion": 1,
 	"id": "craftable-enchants",
 	"version": "${version}",
-	"name": "可合成的附魔书",
-	"description": "允许直接合成最高等级的附魔书",
+	"name": "CraftableEnchants",
+	"description": "Allow to craft enchanted books",
 	"authors": [
 		"FuYin"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/FuYinovo/Craftable-Enchanted-Books"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/craftable-enchants/icon.png",
