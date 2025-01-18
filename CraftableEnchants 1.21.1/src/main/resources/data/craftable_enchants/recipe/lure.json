@@ -1,0 +1,30 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "$V$",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:water_bucket"
+    },
+    "X": {
+      "item": "minecraft:cod"
+    },
+    "$": {
+      "item": "minecraft:fishing_rod"
+    },
+    "V": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "lure": 3
+      }
+    }
+  }
+}
