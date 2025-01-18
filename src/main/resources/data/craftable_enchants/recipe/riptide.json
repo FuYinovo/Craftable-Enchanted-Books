@@ -1,0 +1,30 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "$V$",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "minecraft:cod"
+    },
+    "$": {
+      "item": "minecraft:trident"
+    },
+    "V": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "riptide": 3
+      }
+    }
+  }
+}

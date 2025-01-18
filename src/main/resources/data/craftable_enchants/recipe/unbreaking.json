@@ -1,0 +1,30 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "$V$",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "X": {
+      "item": "minecraft:diamond_block"
+    },
+    "$": {
+      "item": "minecraft:ghast_tear"
+    },
+    "V": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "unbreaking": 3
+      }
+    }
+  }
+}

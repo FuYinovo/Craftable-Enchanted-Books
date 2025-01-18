@@ -1,0 +1,30 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "$V$",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "X": {
+      "item": "minecraft:blaze_rod"
+    },
+    "$": {
+      "item": "minecraft:fire_charge"
+    },
+    "V": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "fire_protection": 4
+      }
+    }
+  }
+}
